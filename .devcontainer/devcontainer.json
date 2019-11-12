@@ -6,5 +6,5 @@
     "settings": {
         "peacock.color": "#9900cc"
     },
-    "postCreateCommand": "bash ./scripts/post-create.sh"
+    "postCreateCommand": "bash .devcontainer/post-create.sh"
 }
